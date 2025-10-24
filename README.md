@@ -54,3 +54,13 @@ This project contributes to both academia and industry by:
 - Demonstrating effective handling of class imbalance in financial data.
 - Providing a transparent and interpretable alternative to deep learning systems.
 - Offering a low-cost, open-source prototype for institutions seeking scalable fraud detection.
+
+
+## Dataset Access
+
+Due to GitHub’s 100 MB file size limit, the dataset used in this project is available on Kaggle.
+
+[Download Credit Card Fraud Detection Dataset on Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
+
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
